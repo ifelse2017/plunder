@@ -1,1 +1,3 @@
 *.txt
+!a.php
+/dev
